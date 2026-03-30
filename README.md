@@ -1,2 +1,11 @@
-# FinTelligent
- your elite bootcamp to transition from Finance Executive to Agentic System Architect
+---
+title: FinTelligent API
+emoji: 💸
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
+# FinTelligent Backend
+This is a production-ready Agentic AI SaaS backend.
